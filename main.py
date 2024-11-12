@@ -2,7 +2,7 @@ from Student import Student
 from Employee import Employee
 
 student = Student("Mike", 22, "Engineering", 3, 99)
-print("This is from programmer 1")
+print("This is from programmer 1 hi brother")
 # student.foo()
 print("This is from programmer 2")
 
